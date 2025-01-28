@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: task-manager-service
+
+aws:
+  region: ap-south-1 # change to your AWS region
